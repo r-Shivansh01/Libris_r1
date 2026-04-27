@@ -1,4 +1,4 @@
-# Books API
+# Libris_r1 (Books API)
 
 A RESTful API for managing a book collection, built with Node.js and Express.
 Fully containerized with Docker and shipped via an automated CI/CD pipeline using GitHub Actions.
